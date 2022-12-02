@@ -1,0 +1,4 @@
+certifi @ file:///croot/certifi_1665076670883/work/certifi
+numpy==1.23.5
+py4j==0.10.9.5
+pyspark==3.3.1
